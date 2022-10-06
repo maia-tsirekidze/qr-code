@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
 body{
     background-color: #d5e1ef;
-
-
+    font-family: 'Outfit', sans-serif;
 }
 .conteiner{
     width: 320px; 
